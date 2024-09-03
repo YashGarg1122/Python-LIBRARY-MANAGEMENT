@@ -68,7 +68,7 @@ This is an open-source project built for educational purposes. Feedback and cont
 
 ## License
 
-This project is licensed under the GNU V3 License.
+This project is licensed under the GPL V3 License.
 
 ---
 
