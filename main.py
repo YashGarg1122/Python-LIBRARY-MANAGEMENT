@@ -116,7 +116,7 @@ def credit():
     print("Credit:-")
     print("Python Librery Project")
     print("Version: 1.0 BETA")
-    print("\nCode By: Yash Garg\nTeam Members: Dhruv Gupta, Apurva Bansal, Ritesh Kumar Sinha\n")
+    print("\nCode By: Yash Garg\nTeam Members: Dhruv Gupta, Apurva Bansal, Ritesh Kumar Sinha, Anshul Sirohi, Saurav Agrawal\n")
     print("An Opne Source Project - Build for College Project 3rd SEM (SRM University Delhi-NCR)")
     print("Contact US via E-Mail: help.yashgarg@gmail.com\n")
     if (continue_Query()==1):
